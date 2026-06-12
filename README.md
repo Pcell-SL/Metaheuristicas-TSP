@@ -22,7 +22,7 @@ https://github.com/Pcell-SL/Metaheuristicas-TSP/blob/main/branch_and_price.ipynb
 
 ### Tabu Search
 - Notebook:
-https://github.com/Pcell-SL/Metaheuristicas-TSP/blob/main/tabu_search.ipynbmnnh
+https://github.com/Pcell-SL/Metaheuristicas-TSP/blob/main/tabu_search.ipynb
 
 ### Simulated Annealing
 - Notebook:
